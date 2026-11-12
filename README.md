@@ -105,10 +105,10 @@
 ## Screenshots
 
 ### Gameplay
-![Gameplay](screenshots/gameplay.png)
+![Gameplay Screenshot](screenshots/gameplay.png)
 
 ### Final Battle Result
-![Battle Result](screenshots/battle-result.png)
+![Battle Result Screenshot](screenshots/battle-result.png)
 
 #
 
