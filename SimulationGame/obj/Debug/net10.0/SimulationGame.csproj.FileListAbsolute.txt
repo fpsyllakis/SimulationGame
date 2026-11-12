@@ -1,0 +1,14 @@
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\bin\Debug\net10.0\SimulationGame.exe
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\bin\Debug\net10.0\SimulationGame.deps.json
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\bin\Debug\net10.0\SimulationGame.runtimeconfig.json
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\bin\Debug\net10.0\SimulationGame.dll
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\bin\Debug\net10.0\SimulationGame.pdb
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.AssemblyInfoInputs.cache
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.AssemblyInfo.cs
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.csproj.CoreCompileInputs.cache
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.dll
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\refint\SimulationGame.dll
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.pdb
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\SimulationGame.genruntimeconfig.cache
+C:\Users\rein8\source\repos\SimulationGame\SimulationGame\obj\Debug\net10.0\ref\SimulationGame.dll
