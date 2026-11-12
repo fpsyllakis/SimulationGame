@@ -102,6 +102,16 @@
 
 # 
 
+## Screenshots
+
+### Gameplay
+![Gameplay](screenshots/gameplay.png)
+
+### Final Battle Result
+![Battle Result](screenshots/battle-result.png)
+
+#
+
 # \## Author
 
 # 
