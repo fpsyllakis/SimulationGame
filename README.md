@@ -2,31 +2,45 @@
 
 # 
 
-# \## About
+# A console-based battle simulation game developed in C# as part of a programming assignment.
 
-# A console-based battle simulation game
+# 
 
-# developed using C#.
+# \## Overview
+
+# 
+
+# The application simulates a battle between two opposing teams: Demon Slayers and Demons.
+
+# 
+
+# Each character is assigned a random amount of health, and the battle progresses through a series of rounds until a winning team is determined.
 
 # 
 
 # \## Features
 
-# \- Two opposing teams
+# 
 
-# \- Character health management
+# \- Two opposing teams with predefined characters.
 
-# \- Randomised attacks
+# \- Randomised character health generation.
 
-# \- Healing mechanics
+# \- Turn-based battle simulation.
 
-# \- Round-based combat
+# \- Randomised attack mechanics.
 
-# \- Automatic winner calculation
+# \- Character health management.
+
+# \- Healing mechanics.
+
+# \- Automatic winner determination.
 
 # 
 
 # \## Technologies
+
+# 
 
 # \- C#
 
@@ -36,17 +50,61 @@
 
 # 
 
-# \## How to Run
+# \## Getting Started
 
-# 1\. Clone the repository.
+# 
 
-# 2\. Open the .sln file in Visual Studio.
+# \### Requirements
 
-# 3\. Build and run the project.
+# \- Visual Studio
+
+# \- Compatible .NET SDK
+
+# 
+
+# \### Running the project
+
+# 
+
+# 1\. Clone or download this repository.
+
+# 2\. Open `SimulationGame.slnx` in Visual Studio.
+
+# 3\. Build the solution.
+
+# 4\. Run the application.
+
+# 
+
+# \## Project Structure
+
+# 
+
+# ```text
+
+# SimulationGame/
+
+# ├── SimulationGame/
+
+# │   ├── Program.cs
+
+# │   └── SimulationGame.csproj
+
+# ├── .gitignore
+
+# ├── .gitattributes
+
+# ├── README.md
+
+# └── SimulationGame.slnx
+
+# ```
 
 # 
 
 # \## Author
 
-# Filippos Psyllakis
+# 
+
+# Developed by fpsyllakis.
 
